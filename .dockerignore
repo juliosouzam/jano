@@ -1,0 +1,9 @@
+yarn*
+.editor*
+.eslint*
+.git*
+prettier*
+.vscode
+dist
+docs
+tmp/*
